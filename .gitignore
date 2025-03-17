@@ -4,5 +4,9 @@ env/
 .env/
 .venv/
 ENV/
-document_metadata.pkl
+lincoln_metadata.pkl.stats
 search_index.faiss
+lincoln_index.faiss
+lincoln_metadata.pkl
+document_metadata.pkl
+
