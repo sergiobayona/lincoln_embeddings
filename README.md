@@ -1,5 +1,4 @@
 # Abraham Lincoln Letters: Semantic Search Demo Guide
-### Author: Sergio Bayona
 
 This guide will help you set up and use the semantic search system for exploring Abraham Lincoln's letters using natural language queries.
 
