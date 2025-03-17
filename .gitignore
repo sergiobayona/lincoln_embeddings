@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+document_metadata.pkl
+search_index.faiss
